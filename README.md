@@ -19,5 +19,6 @@ I also have a deep knowledge in networking and telecommunications, since I have 
 ## Certifications
 - AWS Certified Solutions Architect Associate (AWS SAA)
 - AWS Certified Cloud Practitioner (AWS CCP)
+- HashiCorp Terraform Associate
 - Cisco Certified Network Associate (CCNA)
 - Fortinet Certified Fundamentals Cybersecurity
