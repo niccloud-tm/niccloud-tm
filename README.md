@@ -1,16 +1,23 @@
 ## Hi there 👋
 
-<!--
-**niccloud-tm/niccloud-tm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Nicolás Familia, a Cloud Engineer based in Dominican Republic.
 
-Here are some ideas to get you started:
+I mostly invest my time working on Cloud projects (Specially AWS) designing infrastructures, building Terraform projects and automating with CI/CD tools like Azure DevOps.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I also have a deep knowledge in networking and telecommunications, since I have a bachelor degree in Telematics Engineering.
+
+---
+
+## Tech Stack
+- Amazon Web Services (AWS)
+- Terraform
+- Python
+- Azure DevOps
+
+---
+
+## Certifications
+- AWS Certified Solutions Architect Associate (AWS SAA)
+- AWS Certified Cloud Practitioner (AWS CCP)
+- Cisco Certified Network Associate (CCNA)
+- Fortinet Certified Fundamentals Cybersecurity
